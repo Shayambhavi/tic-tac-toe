@@ -123,7 +123,7 @@ function App() {
         <button id="clear" className="clear-button" onClick={() => onClear() } >Clear Game</button>
         <button className="restart" onClick={() => onRestart()}>Restart</button>
         </div>
-        <p className="made-by">Developed by Soham Patra</p>
+        <p className="made-by">Developed by Shayambhavi Bakshi</p>
     </div>
   );
   
